@@ -3,6 +3,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>BookNest</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
     <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <!-- Font Awesome for icons -->
